@@ -1,5 +1,5 @@
 # QtScrcpy-binary
-The binary for QtScrcpy compiled on Debian Buster, which might work on all debian based distros.
+The binary for QtScrcpy v 1.7 (https://github.com/barry-ran/QtScrcpy) compiled on Debian Buster, which might work on all Debian-based distros.
 
 To make it work, just git clone this repository: 
 
